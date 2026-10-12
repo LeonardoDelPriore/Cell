@@ -1,0 +1,7 @@
+// Illustrative only: syntax is not yet finalized or executable.
+
+cell hello {
+    fn run(name) {
+        return "Hello, " + name + "!"
+    }
+}
