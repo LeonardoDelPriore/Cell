@@ -1,0 +1,49 @@
+---
+description: A ogni chat leggi cartella e docs; dopo ogni ragionamento di contesto aggiorna i documenti di progetto
+alwaysApply: true
+---
+
+# Contesto di progetto CELL
+
+Questa regola vale in ogni chat, prima di qualsiasi altra analisi o modifica.
+
+## All'avvio della chat
+
+Prima di rispondere, ragionare o toccare il codice:
+
+1. Elenca l'albero del repository (root, `docs/`, `examples/`, `src/`, `tests/`, `.cursor/`).
+2. Leggi per intero i documenti di progetto, nei path reali e non solo in quelli dichiarati dal README:
+   - `README.md`
+   - `CONTRIBUTING.md`
+   - `CODE_OF_CONDUCT.md`
+   - `docs!vision.md`
+   - `docs!technical-specification.md`
+   - `docs!roadmap.md`
+   - `docs!glossary.md`
+   - `examples!hello-cell.cell`
+   - qualunque altro `*.md` o `docs!*.md` presente in root o in `docs/`
+3. Elenca `docs/`, inclusa `docs/Documentazione originale/`.
+4. Prima di una conclusione su origine, visione o intento storico, leggi le immagini in `docs/Documentazione originale/`.
+
+Se un file del README (`docs/vision.md`, `examples/hello-cell.cell`) non esiste, usa il file reale (`docs!vision.md`, `examples!hello-cell.cell`) e non trattare il layout dichiarato come verità.
+
+## Dopo ogni ragionamento di contesto
+
+Se il turno produce o rivede una comprensione del progetto, scrivila nel documento che la possiede nello stesso turno, prima di chiudere la risposta.
+
+| Comprensione | Documento da aggiornare |
+| --- | --- |
+| Origine, principi, idea originale, domande storiche aperte | `docs!vision.md` |
+| Componenti, semantica, DNA, memoria, evoluzione, migrazione | `docs!technical-specification.md` |
+| Fasi, milestone, stato del lavoro | `docs!roadmap.md` e, se cambia lo stato pubblico, la checklist in `README.md` |
+| Definizione di un termine | `docs!glossary.md` e ogni altro documento che usa quel termine |
+| Processo di contributo | `CONTRIBUTING.md` |
+
+Regole di scrittura:
+
+- Non inventare fatti. Ciò che non è stato confermato resta una domanda aperta o una proposta.
+- Etichetta le decisioni nuove come proposta. Non presentarle come ricordo originale.
+- Un fatto che tocca più documenti si aggiorna in tutti, nello stesso turno.
+- Una modifica solo di codice, senza nuova comprensione del progetto, non richiede una riscrittura dei documenti.
+
+Esempio: il ragionamento conclude che il DNA è il codice eseguibile. Allora si aggiornano la specifica (definizione), il glossario (voce DNA) e la visione se il principio cambia. Non si lascia il glossario sulla definizione precedente.

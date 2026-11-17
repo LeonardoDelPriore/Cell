@@ -1,17 +1,119 @@
-MIT License
+Licenza d'uso CELL 1.0
 
-Copyright (c) 2026 CELL contributors
+Copyright (c) 2026 Leonardo Del Priore e Uma Innovation.
+Tutti i diritti riservati.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Titolari della presente licenza sono Leonardo Del Priore, fondatore del progetto, e Uma Innovation, l'organizzazione che sviluppa CELL e ne sostiene i contributi economici.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Il testo italiano è quello che fa fede. La traduzione inglese che segue è solo di cortesia.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+Questa licenza non è una licenza open source e non concede la libertà di creare un fork.
+
+## 1. Oggetto
+
+La licenza copre il software, la documentazione e gli altri file di questo repository, salvo un file che indichi una licenza diversa.
+
+## 2. Concessione d'uso
+
+I titolari concedono a chiunque, a titolo gratuito, un diritto non esclusivo, non trasferibile e revocabile di:
+
+- usare ed eseguire il software per qualsiasi scopo, compreso l'uso privato, di ricerca, didattico e professionale;
+- fare le copie private strettamente necessarie a quell'uso;
+- leggere e studiare il codice sorgente e la documentazione.
+
+## 3. Fork e linea ufficiale
+
+Senza autorizzazione scritta preventiva di entrambi i titolari è vietato:
+
+- pubblicare, distribuire, concedere in sublicenza o vendere copie del software o di una sua parte sostanziale;
+- creare, pubblicare o mantenere un fork, un repository derivato, un mirror presentato come progetto alternativo, o una versione modificata destinata a terzi;
+- presentare una copia, una modifica o un'opera derivata come ufficiale, affiliata, autorizzata o approvata da Leonardo Del Priore o da Uma Innovation.
+
+L'unica linea ufficiale di CELL è quella pubblicata da Leonardo Del Priore o da Uma Innovation.
+
+## 4. Nomi
+
+I nomi «CELL», «Uma Innovation» e «Leonardo Del Priore» non possono essere usati in un fork, in un'opera derivata o in materiale promozionale per suggerire uno status ufficiale. Un riferimento corretto indica Leonardo Del Priore come fondatore e Uma Innovation come organizzazione che sviluppa il progetto e ne sostiene i contributi economici.
+
+## 5. Contributi
+
+Un contributo inviato al repository ufficiale concede a Leonardo Del Priore e a Uma Innovation una licenza perpetua, irrevocabile, mondiale, gratuita e non esclusiva di usare, riprodurre, modificare e distribuire quel contributo come parte del progetto ufficiale. Il contributo non dà al contributore il diritto di fare un fork di CELL né di aprire un'altra linea ufficiale. Chi contribuisce dichiara di avere i diritti necessari per questa concessione.
+
+## 6. Garanzia e responsabilità
+
+Il software è fornito «così com'è», senza garanzie di alcun tipo, esplicite o implicite, comprese le garanzie di commerciabilità, idoneità a uno scopo particolare e non violazione.
+
+Nei limiti massimi consentiti dalla legge italiana, Leonardo Del Priore, Uma Innovation e i contributori non sono responsabili per danni derivanti dall'uso o dall'impossibilità di usare il software. Questa licenza non limita una responsabilità che la legge italiana non consente di escludere.
+
+## 7. Riserva
+
+Ogni diritto non concesso espressamente resta riservato a Leonardo Del Priore e a Uma Innovation.
+
+## 8. Cessazione
+
+La violazione delle sezioni 3 o 4 fa cessare automaticamente la concessione della sezione 2. Cessata la concessione, l'uso e ogni distribuzione devono interrompersi. Le sezioni 4, 6, 7 e 9 restano in vigore.
+
+## 9. Legge applicabile
+
+La licenza è regolata dalla legge italiana.
+
+---
+
+CELL Use License 1.0 (courtesy English translation)
+
+Copyright (c) 2026 Leonardo Del Priore and Uma Innovation.
+All rights reserved.
+
+The licensors are Leonardo Del Priore, founder of the project, and Uma Innovation, the organization that develops CELL and provides its economic support.
+
+The Italian text controls. This English text is a courtesy translation.
+
+This is not an open-source license and it does not grant the freedom to create a fork.
+
+## 1. Scope
+
+This license covers the software, documentation, and other files in this repository, unless a file states a different license.
+
+## 2. Grant of use
+
+The licensors grant every person, free of charge, a non-exclusive, non-transferable, revocable right to:
+
+- use and run the software for any purpose, including private, research, educational, and professional use;
+- make the private copies strictly required for that use;
+- read and study the source code and the documentation.
+
+## 3. Forks and the official line
+
+Without prior written authorization from both licensors, a person may not:
+
+- publish, distribute, sublicense, or sell copies of the software or of a substantial part of it;
+- create, publish, or maintain a fork, a derivative repository, a mirror presented as an alternative project, or a modified version intended for third parties;
+- present a copy, a modification, or a derivative work as official, affiliated, authorized, or endorsed by Leonardo Del Priore or Uma Innovation.
+
+The only official line of CELL is the one published by Leonardo Del Priore or Uma Innovation.
+
+## 4. Names
+
+The names "CELL", "Uma Innovation", and "Leonardo Del Priore" may not be used in a fork, a derivative work, or promotional material to suggest official status. A fair reference identifies Leonardo Del Priore as founder and Uma Innovation as the organization that develops the project and provides its economic support.
+
+## 5. Contributions
+
+A contribution sent to the official repository grants Leonardo Del Priore and Uma Innovation a perpetual, irrevocable, worldwide, royalty-free, non-exclusive license to use, reproduce, modify, and distribute that contribution as part of the official project. The contribution does not give the contributor a right to fork CELL or to open another official line. The contributor states that they hold the rights required for this grant.
+
+## 6. Warranty and liability
+
+The software is provided "as is", without warranty of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+To the maximum extent permitted by Italian law, Leonardo Del Priore, Uma Innovation, and the contributors are not liable for damages arising from the use of the software or the inability to use it. This license does not limit liability that Italian law does not allow to be excluded.
+
+## 7. Reservation
+
+Every right not expressly granted remains reserved to Leonardo Del Priore and Uma Innovation.
+
+## 8. Termination
+
+A breach of section 3 or 4 automatically terminates the grant in section 2. When the grant ends, use and any distribution must stop. Sections 4, 6, 7, and 9 survive.
+
+## 9. Governing law
+
+This license is governed by Italian law.
